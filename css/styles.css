@@ -117,7 +117,7 @@ input[type="search"] {
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 50% 50%;
+	background-position: 100% 100%;
 }
 .img-bg > img {
 	display: none;
